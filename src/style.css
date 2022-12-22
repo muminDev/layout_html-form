@@ -10,3 +10,7 @@
 .fieldSelect {
   margin-bottom: 10px;
 }
+
+.labels {
+  display: block;
+}
